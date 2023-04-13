@@ -1,6 +1,6 @@
 # GNaira Token
 
-GNaira Token is a solution to solve these problems of transparency and accountability in the financial system. The contract consists of an ERC20 Smart Contract with a Multi Signer funtionality. The owner of the contract can also backlist any address.
+GNaira Token is a solution to solve these problems of transparency and accountability in the financial system. The contract consists of an ERC20 Smart Contract with a Multi Signer funtionality. The owner of the contract can also blacklist any address.
 
 ## Installation and Setup
 To install and run the application, follow these steps:
