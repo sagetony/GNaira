@@ -7,11 +7,13 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract GnairaToken is IERC20{
     
-    // Define the name of token, symbol and total Suppply
-    // define the owner of the token
-    // see balance, transfer, approve, transfer from, allowance.
-    // @dev: For the burn and the mint function to be executed the signers has to confirmTransaction
-    //  and executeTransaction
+    /** 
+     * @dev 
+     * Define the name of token, symbol and total Suppply
+     * define the owner of the token
+     * see balance, transfer, approve, transfer from, allowance
+     * For the burn and the mint function to be executed the signers has to confirmTransaction and executeTransaction
+    */
 
     // Define Variables
     address public governor;
